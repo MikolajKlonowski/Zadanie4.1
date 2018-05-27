@@ -8,7 +8,8 @@ public class CheckTriangle {
             boolean to = b + a == c;
             System.out.println(to);
         } else {
-            System.out.println("Dane nie wprowadzaone zgodnie z konwencja");
+            boolean nie = 1==0;
+            System.out.println(nie);
         }
 
     }
